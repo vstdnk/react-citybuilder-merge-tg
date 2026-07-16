@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <!-- стены -->
+  <polygon points="8,102 48,122 48,84 8,64" fill="#c96054"/>
+  <polygon points="48,122 88,102 88,64 48,84" fill="#a84a40"/>
+  <!-- крыша -->
+  <polygon points="48,44 88,64 48,84 8,64" fill="#9aa6ba"/>
+  <!-- труба -->
+  <polygon points="20,56 28,60 28,38 20,34" fill="#5b6472"/>
+  <polygon points="28,60 36,56 36,34 28,38" fill="#49515c"/>
+  <polygon points="28,30 36,34 28,38 20,34" fill="#6d7787"/>
+  <!-- дым -->
+  <circle cx="28" cy="24" r="6" fill="rgba(255,255,255,0.5)"/>
+  <circle cx="35" cy="15" r="4.5" fill="rgba(255,255,255,0.35)"/>
+  <!-- ворота -->
+  <polygon points="58,90 74,82 74,100 58,108" fill="#6e3630"/>
+  <polygon points="58,96 74,88 74,90 58,98" fill="#572924"/>
+  <!-- окна -->
+  <polygon points="16,80 26,85 26,93 16,88" fill="#ffd76e"/>
+  <polygon points="30,87 40,92 40,100 30,95" fill="#ffd76e"/>
+</svg>

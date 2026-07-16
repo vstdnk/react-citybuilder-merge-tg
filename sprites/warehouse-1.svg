@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <!-- стены -->
+  <polygon points="8,102 48,122 48,88 8,68" fill="#e0b04a"/>
+  <polygon points="48,122 88,102 88,68 48,88" fill="#c0913a"/>
+  <!-- крыша -->
+  <polygon points="48,48 88,68 48,88 8,68" fill="#f0c862"/>
+  <polygon points="48,52 84,70 48,88 12,70" fill="#d8a93d"/>
+  <!-- ворота-жалюзи -->
+  <polygon points="56,86 80,74 80,96 56,108" fill="#8a6a28"/>
+  <polygon points="56,92 80,80 80,82 56,94" fill="#6f541e"/>
+  <polygon points="56,99 80,87 80,89 56,101" fill="#6f541e"/>
+  <!-- ящик у входа -->
+  <polygon points="14,104 24,109 24,99 14,94" fill="#a87c4f"/>
+  <polygon points="24,109 34,104 34,94 24,99" fill="#8f6237"/>
+  <polygon points="24,89 34,94 24,99 14,94" fill="#c29a6a"/>
+</svg>

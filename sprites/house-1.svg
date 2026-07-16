@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <!-- стены -->
+  <polygon points="8,102 48,122 48,80 8,60" fill="#3fa9dc"/>
+  <polygon points="48,122 88,102 88,60 48,80" fill="#2b7fae"/>
+  <!-- плита крыши -->
+  <polygon points="48,40 88,60 48,80 8,60" fill="#e8685c"/>
+  <!-- мансарда -->
+  <polygon points="26,60 48,71 48,55 26,44" fill="#ef6e63"/>
+  <polygon points="48,71 70,60 70,44 48,55" fill="#d14b41"/>
+  <polygon points="48,33 70,44 48,55 26,44" fill="#f2887e"/>
+  <!-- окна -->
+  <polygon points="54,88 64,83 64,95 54,100" fill="#dff3ff"/>
+  <polygon points="70,80 80,75 80,87 70,92" fill="#dff3ff"/>
+  <polygon points="34,50 42,54 42,62 34,58" fill="#ffe9a8"/>
+  <!-- дверь -->
+  <polygon points="22,95 34,101 34,118 22,112" fill="#1d5d80"/>
+</svg>
